@@ -7,3 +7,5 @@ The project consists in building a system prototype for monitoring the quality o
 The spectrometer will read the light diffration frequencies and  an "unknown thing" can be measured by using the  Pocket Geiger Counter in order to test the material under evaluation.  Each material sample (water) should have a different signature that can be analysed according intelligence available on machine learning of AWS IOT platform.
 This monitoring will be useful to understand the level of the main quality variables of water in order to actuate an adjustment of some environment parameters. For example the actuator could activate fitoplancton and zooplankton dispensers, or Ph corrector , or alerts which warn that water or location  should be changed.
 
+Link to Concept document
+https://github.com/robertobruzzese/Fish-Farming-Water-Monitoring/blob/main/User%20personas.pdf
