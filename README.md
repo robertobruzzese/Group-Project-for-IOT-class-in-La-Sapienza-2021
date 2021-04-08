@@ -9,3 +9,6 @@ This monitoring will be useful to understand the level of the main quality varia
 
 Link to Concept document
 https://github.com/robertobruzzese/Fish-Farming-Water-Monitoring/blob/main/Concept.pdf
+Link to technology document
+https://github.com/robertobruzzese/Fish-Farming-Water-Monitoring/tree/main/Technology
+
