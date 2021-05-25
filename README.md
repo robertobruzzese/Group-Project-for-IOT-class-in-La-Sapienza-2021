@@ -12,3 +12,7 @@ https://github.com/robertobruzzese/Fish-Farming-Water-Monitoring/blob/main/Conce
 Link to technology document
 https://github.com/robertobruzzese/Fish-Farming-Water-Monitoring/tree/main/Technology
 
+VIDEOS
+1) Technical Presentation  of Group Project   https://www.youtube.com/watch?v=7J0p1xn5vMk
+2) Performances and estimation of Consumption https://www.youtube.com/watch?v=LV_SBKkzC9k
+
