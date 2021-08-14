@@ -1,6 +1,6 @@
 # Fish-Farming-Water-Monitoring
 Iot project developed in La Sapienza Course 
-Group Memeber : Bruzzese Roberto 
+Group Member : Bruzzese Roberto 
 Linkedin profile : www.linkedin.com/in/roberto-bruzzese-4378b515
 
 The project consists in building a system prototype for monitoring the quality of water in which takes place the fish farming. There are many kinds of fish farming depending on the dimensions, localization, and intensivity of the farming. For all of these kind of farming the main important variable to take under control is the quality of water, where quality is a general topic under which they are included the percentage of fitoplancton and zooplankton (food), the peercentage of oxygen, the presence of nitrogen dioxide, nitrogen catabolites, ammonia, droppings (dejections produced by fishes), the	percentage of Ph and Salinity and the 	bioaccumulation of heavy metals, dioxins, polychlorinated biphenyls. The measurements are taken with a spectrometer in vitro, without the need to take a water sample by a human intervention. 
